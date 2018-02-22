@@ -1,4 +1,5 @@
-If you need clear-cut refference ![Ref1](https://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask)![Ref2](http://blog.luisrei.com/articles/flaskrest.html)
+If you need clear-cut refference [Ref1](https://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask)
+[Ref2](http://blog.luisrei.com/articles/flaskrest.html)
 #Installation Steps
 1.  Install Python Package
 2.  Install Pip for Python
@@ -25,8 +26,8 @@ $ ./app.py
 
 #After you run the app open your browser and paste the below url to check!
 
-*(http://127.0.0.1:5000/)
-*(http://127.0.0.1:5000/html/view)
-*(http://127.0.0.1:5000/employee/10002)
-*(http://127.0.0.1:5000/112)
-*(http://127.0.0.1:5000employee/create)  But use POSTMAN chrome extension to make a POST request ('username','password') parameters
+1. (http://127.0.0.1:5000/)
+2. (http://127.0.0.1:5000/html/view)
+3. (http://127.0.0.1:5000/employee/10002)
+4. (http://127.0.0.1:5000/112)
+5. (http://127.0.0.1:5000employee/create)  But use POSTMAN chrome extension to make a POST request ('username','password') parameters
